@@ -10,6 +10,7 @@ This is a project I did for my Bachelor of Science in Applied Mathematics Degree
 * The model used; demographic data, medical history, laboratory results, and imaging findings.
 * Algorithm used: Logistic Regression
 
-## Flowchart of the NASH Model ![Edited Flowchart](https://github.com/git-ivan-hub/Ivan-s-Portfolio/assets/122067762/c9bc2bbe-968f-4811-8647-1e04001e8b7e)
+## Flowchart of the NASH Model 
+![Main Flowchart](https://github.com/git-ivan-hub/git-ivan-hub/assets/122067762/3ee1ba92-cba2-4441-9738-4f205d90306c)
 
 
