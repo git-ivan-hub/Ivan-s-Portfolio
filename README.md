@@ -1,6 +1,6 @@
 # Ivan-s-Portfolio
 
-# [Link of the project mentioned below](https://git-ivan-hub.github.io/Ivan-s-Portfolio/)
+## [Link of the project mentioned below](https://git-ivan-hub.github.io/Ivan-s-Portfolio/)
 
 # [Project 1: Non-Alcoholic Steatohepatitis Model](https://github.com/git-ivan-hub/NASH-Model)
 
