@@ -1,5 +1,7 @@
 # Ivan-s-Portfolio
 
+https://git-ivan-hub.github.io/Ivan-s-Portfolio/
+
 # [Project 1: Non-Alcoholic Steatohepatitis Model](https://github.com/git-ivan-hub/NASH-Model)
 
 This is a project I did for my Bachelor of Science in Applied Mathematics Degree, where I build the NASH Logistic Regression Model
