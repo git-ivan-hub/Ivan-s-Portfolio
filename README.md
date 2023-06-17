@@ -6,7 +6,7 @@
 
 This is a project I did for my Bachelor of Science in Applied Mathematics Degree, where I build the NASH Logistic Regression Model
 
-* Data Source: Secondary data gathered by the existing study "Early Detection of Liver Cancer using AI-driven Integration of Clinical, Genomic, and Ultrasound Images." from the University of the Philippines (UP), Los Baños Laguna.
+* Data Source: Secondary data gathered from the existing study "Early Detection of Liver Cancer using AI-driven Integration of Clinical, Genomic, and Ultrasound Images." from the University of the Philippines (UP), Los Baños Laguna.
 * The model used; demographic data, medical history, laboratory results, and imaging findings.
 * Algorithm used: Logistic Regression
 
