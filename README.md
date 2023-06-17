@@ -17,5 +17,6 @@ This is a project I did for my Bachelor of Science in Applied Mathematics Degree
 ![Odds Ratio](https://github.com/git-ivan-hub/Ivan-s-Portfolio/assets/122067762/79704a4e-0823-4afc-a657-0cf55dd2ee48)
 
 
+![Odds Ratio Updated](https://github.com/git-ivan-hub/Ivan-s-Portfolio/assets/122067762/cc2ec93a-e50e-4ed7-917b-514faa430782)
 
 
