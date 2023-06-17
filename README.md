@@ -14,9 +14,7 @@ This is a project I did for my Bachelor of Science in Applied Mathematics Degree
 ![Main Flowchart](https://github.com/git-ivan-hub/git-ivan-hub/assets/122067762/3ee1ba92-cba2-4441-9738-4f205d90306c)
 
 ## Odds Ratios of each Feature
-![Odds Ratio](https://github.com/git-ivan-hub/Ivan-s-Portfolio/assets/122067762/79704a4e-0823-4afc-a657-0cf55dd2ee48)
+![Webp net-resizeimage (3)](https://github.com/git-ivan-hub/Ivan-s-Portfolio/assets/122067762/45048cee-fb2d-42b1-a8cf-bbd1f7d76dc8)
 
-
-![Odds Ratio Updated](https://github.com/git-ivan-hub/Ivan-s-Portfolio/assets/122067762/cc2ec93a-e50e-4ed7-917b-514faa430782)
 
 
