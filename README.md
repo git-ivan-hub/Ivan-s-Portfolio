@@ -13,4 +13,7 @@ This is a project I did for my Bachelor of Science in Applied Mathematics Degree
 ## Flowchart of the NASH Model 
 ![Main Flowchart](https://github.com/git-ivan-hub/git-ivan-hub/assets/122067762/3ee1ba92-cba2-4441-9738-4f205d90306c)
 
+## Odds Ratios of each Feature
+
+
 
